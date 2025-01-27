@@ -1,0 +1,6 @@
+package hybridinheritance.vehicles;
+
+public interface Refuelable {
+
+    void refuel();
+}
